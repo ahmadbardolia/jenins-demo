@@ -6,7 +6,7 @@ pipelineJob('theme-park-job') {
                     remote {
                         url 'https://github.com/ahmadbardolia/springboot-ridesapp.git'
                     }
-                    branch 'master'
+                    branch 'main'
                 }
             }
         }
